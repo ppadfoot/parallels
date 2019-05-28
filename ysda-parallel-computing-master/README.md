@@ -1,1 +1,1 @@
-# ysda-parallel-computing
+ШАД - дз
